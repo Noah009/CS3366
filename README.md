@@ -10,4 +10,12 @@ Literally new to GitHub and testing it out
 
 ![elevator2](https://user-images.githubusercontent.com/61167088/191563678-84003e48-a0c2-4fee-84e4-de981cb41719.png)
 
-https://github.com/Noah009/CS3366/blob/main/elevatorGIF.MOV
+
+
+
+
+# Get Ready for the most Awful gif you will see. This thing was compressed 5 times in total. I do not care what you think, to me it's a feature of this elevator.
+
+
+
+![elevatorGIF (1) (1) (1) (1)](https://user-images.githubusercontent.com/61167088/191589856-c8da80c1-9775-481c-a938-6b17596f9498.gif)
