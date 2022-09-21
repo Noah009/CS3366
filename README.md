@@ -8,6 +8,9 @@ Here we have the pictures of the Holiday Inn one:
 ![elevator2](https://user-images.githubusercontent.com/61167088/191563678-84003e48-a0c2-4fee-84e4-de981cb41719.png)
 
 
+# Sketch
+
+![p1 Noah Brunner_1](https://user-images.githubusercontent.com/61167088/191605003-8e5979b7-22ea-423c-bff0-03cc62225aca.png)
 
 
 
@@ -16,3 +19,4 @@ Here we have the pictures of the Holiday Inn one:
 
 
 ![elevatorGIF (1) (1) (1) (1)](https://user-images.githubusercontent.com/61167088/191589856-c8da80c1-9775-481c-a938-6b17596f9498.gif)
+
