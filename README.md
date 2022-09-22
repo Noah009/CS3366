@@ -36,8 +36,7 @@ Here we have the pictures of the Holiday Inn one:
 <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <br /> <br /> <br /> <br /> <br /> <br /> <br />
-<br /> <br /> <br /> <br /> <br /> <br /> <br />
-<br /> <br /> <br /> <br /> <br /> <br /> <br />
+
 
 # To Help your eyes. This is my elevator panel.
 
