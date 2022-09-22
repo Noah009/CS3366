@@ -17,15 +17,22 @@ Here we have the pictures of the Holiday Inn one:
 <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 
 # Get Ready for the most Awful gif you will see. This thing was compressed 5 times in total. I do not care what you think, to me it's a feature of this elevator.
 
-
+<br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 ![elevatorGIF (1) (1) (1) (1)](https://user-images.githubusercontent.com/61167088/191589856-c8da80c1-9775-481c-a938-6b17596f9498.gif)
 
-# How it's supposedly looks like
+# To Help your eyes. This is my elevator panel.
 
 ![Elevator Good looking](https://user-images.githubusercontent.com/61167088/191605373-54e909e6-fe3b-4116-a08a-b82988250b2b.PNG)
 
