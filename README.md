@@ -32,6 +32,13 @@ Here we have the pictures of the Holiday Inn one:
 
 ![elevatorGIF (1) (1) (1) (1)](https://user-images.githubusercontent.com/61167088/191589856-c8da80c1-9775-481c-a938-6b17596f9498.gif)
 
+<br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br />
+
 # To Help your eyes. This is my elevator panel.
 
 ![Elevator Good looking](https://user-images.githubusercontent.com/61167088/191605373-54e909e6-fe3b-4116-a08a-b82988250b2b.PNG)
