@@ -15,13 +15,25 @@ This project is focused on UI design and implementation of a standard elevator. 
 ![elevator2](https://user-images.githubusercontent.com/61167088/191563678-84003e48-a0c2-4fee-84e4-de981cb41719.png)
 <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
-
+***** Problems ***** <br />
+- The first thing when enetering was the operators and firefighter's panel, only looking down you'll find the floor buttons. <br />
+- Confusion about the indication on the difference between "HELP" & "ALARM" aside from colors, and shapes. <br />
+- a loud buzzer after passing each floor has an emergency tone when heard. <br />
+- Digital display is hard to read. <br />
 
 
 # Sketch
+<br /> <br />
 
 ![p1 Noah Brunner_1](https://user-images.githubusercontent.com/61167088/191605003-8e5979b7-22ea-423c-bff0-03cc62225aca.png)
 
+<br /> <br /> <br /> <br /> <br /> <br /> <br />
+
+***** Improvements ***** <br />
+- Reorganization of panel locations. <br />
+- added different background rather than steel to help visual appeal. <br />
+- Common use panel is closet to elevator door whereas operator's panel is more to the right. <br />
+- Speaker changed to indicate buttons pushed along with digital screen.  <br />
 
 <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <br /> <br /> <br /> <br /> <br /> <br /> <br />
@@ -31,7 +43,7 @@ This project is focused on UI design and implementation of a standard elevator. 
 <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 
-# Get Ready for the most Awful gif you will see. This thing was compressed 5 times in total. I do not care what you think, to me it's a feature of this elevator.
+# GIF of the new Elevator based on Sketch. (Sorry for the terrible quality):
 
 <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <br /> <br /> <br /> <br /> <br /> <br /> <br />
@@ -45,10 +57,9 @@ This project is focused on UI design and implementation of a standard elevator. 
 <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <br /> <br /> <br /> <br /> <br /> <br /> <br />
-<br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 
-# To Help your eyes. This is my elevator panel.
+# ELevator Panel:
 
 ![Elevator Good looking](https://user-images.githubusercontent.com/61167088/191605373-54e909e6-fe3b-4116-a08a-b82988250b2b.PNG)
 
